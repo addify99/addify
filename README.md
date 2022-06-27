@@ -8,8 +8,9 @@ I’m currently working on new wordpress and woocommerce plugins
 
 Here are some of my wcommerce plugins 
 
-Plugin 1 : {PRODUCTS BY ATTRIBUTES & VARIATIONS FOR WOOCOMMERCE} (https://addify.store/product/woocommerce-products-by-attributes-and-variations/)
+Plugin 1 : [PRODUCTS BY ATTRIBUTES & VARIATIONS FOR WOOCOMMERCE](https://addify.store/product/woocommerce-products-by-attributes-and-variations/)
 
-My product to set tax exemption rule in Prestashop: Prestashop Tax Exempt Module
+Plugin 2 : [TOP BAR PLUGIN FOR WORDPRESS & WOOCOMMERCE](https://addify.store/product/top-bar-plugin-for-wordpress-woocommerce/)
 
-My product for seting reserve product option in WooCommerce: WooCommerce Reserve Stock Plu
+Plugin 3 : [WOOCOMMERCE CUSTOMER SPECIFIC PRICING
+](https://addify.store/product/woocommerce-customer-specific-pricing/)
